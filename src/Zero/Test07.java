@@ -10,6 +10,6 @@ public class Test07 {
         Double v = (double) number1 / (double) demo1 + (double) number2 / (double) demo2;
         System.out.println(number1 * demo2 + number2 * demo1);
         System.out.println(demo1 * demo2);
-        return number;//aaa
+        return number;
     }
 }
